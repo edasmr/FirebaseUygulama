@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322148547900",
+    "project_id": "fir-kullanimi-ab06e",
+    "storage_bucket": "fir-kullanimi-ab06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322148547900:android:d87a814f654667cdfd7239",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322148547900-1m0lbn6jhs7k9rp0gfg6idhgta69r02m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMtLoYtWbbXXJciwazW_gIe7lSflvqJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322148547900-1m0lbn6jhs7k9rp0gfg6idhgta69r02m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
